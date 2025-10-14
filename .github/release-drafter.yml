@@ -14,7 +14,7 @@ autolabeler:
       - 'package.json'
       - 'package-lock.json'
       - 'yarn.lock'
-      - '.eslintrc.cjs'
+      - '.eslint.config.cjs'
       - 'tsconfig.json'
       - 'rollup.config.js'
   - label: 'python'
