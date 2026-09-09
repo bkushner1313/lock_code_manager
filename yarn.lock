@@ -1308,11 +1308,11 @@
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
 "@types/node@^24.7.0":
-  version "24.7.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.7.2.tgz#5adf66b6e2ac5cab1d10a2ad3682e359cb652f4a"
-  integrity sha512-/NbVmcGTP+lj5oa4yiYxxeBjRivKQ5Ns1eSZeB99ExsEQ6rX5XYU1Zy/gGxY/ilqtD4Etx9mKyrPxZRetiahhA==
+  version "24.13.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-24.13.4.tgz#e54f74ceae6838bff57a814b7d31f5042a0f9074"
+  integrity sha512-YJ7EqCstVTzIr0fMr7qul/977en+pQHrfmuKIo6Zr9i75Be21dr3MovcfvGtyvi2HAUrRerWps5sMO9I7WaxDw==
   dependencies:
-    undici-types "~7.14.0"
+    undici-types "~7.18.0"
 
 "@types/resolve@1.20.2":
   version "1.20.2"
@@ -4657,10 +4657,10 @@ unbox-primitive@^1.1.0:
     has-symbols "^1.1.0"
     which-boxed-primitive "^1.1.1"
 
-undici-types@~7.14.0:
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-7.14.0.tgz#4c037b32ca4d7d62fae042174604341588bc0840"
-  integrity sha512-QQiYxHuyZ9gQUIrmPo3IA+hUl4KYk8uSA7cHrcKd/l3p1OTpZcM0Tbp9x7FAtXdAYhlasd60ncPpgu6ihG6TOA==
+undici-types@~7.18.0:
+  version "7.18.2"
+  resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-7.18.2.tgz#29357a89e7b7ca4aef3bf0fd3fd0cd73884229e9"
+  integrity sha512-AsuCzffGHJybSaRrmr5eHr81mwJU3kjw6M+uprWvCXiNeN9SOGwQ3Jn8jb8m3Z6izVgknn1R0FTCEAP2QrLY/w==
 
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.0"
